@@ -864,9 +864,28 @@ footer a{
 }
 
 .ready{
+    display: flex;
+    justify-content: center;
+}
+.ready h2{
     background: #F3976C;
     color: #333333;
+    width: fit-content;
+    padding: 5px 15px 5px 15px;
 }
+
+
+.citation{
+    font-size: 21px;
+    color: #575757;
+    font-style: italic;
+    text-align: center;
+}
+
+.signature{
+    color:#575757;
+}
+
 
 
 
@@ -1062,6 +1081,9 @@ footer a{
         width: 180px;
         height: 320px;
     }
+    .bloc-mob-center-text {
+        text-align: center;
+    }
 }
 
 @media (max-width: 400px) {
@@ -1071,8 +1093,3 @@ footer a{
     }
 }
 
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
-    }
-}
