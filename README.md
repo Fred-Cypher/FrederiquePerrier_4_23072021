@@ -18,3 +18,6 @@ Travail sur le SEO, les bonnes pratiques à adopter et l'accessibilité d'un sit
 Le site original à améliorer est celui-ci : https://fred-cypher.github.io/Starting-website/ 
 
 (dans ce repository, il manque l'ajout des aria-label, cet ajout se trouve dans le repository la_chouette_agence : https://github.com/Fred-Cypher/la_chouette_agence.git) 
+
+
+Lien vers le site : https://fred-cypher.github.io/FrederiquePerrier_4_23072021/
