@@ -1,4 +1,4 @@
-# FrederiquePerrier_4_23072021
+# Projet 4 du parcours Développeur Web d'OpenClassrooms
 
 Dossier pour le Projet 4 : Optimisez un site web existant
 
@@ -20,4 +20,4 @@ Le site original à améliorer est celui-ci : https://fred-cypher.github.io/Star
 (dans ce repository, il manque l'ajout des aria-label, cet ajout se trouve dans le repository la_chouette_agence : https://github.com/Fred-Cypher/la_chouette_agence.git) 
 
 
-Lien vers le site : https://fred-cypher.github.io/FrederiquePerrier_4_23072021/
+Lien vers le site : https://fred-cypher.github.io/P4-ChouetteAgence/
